@@ -1,5 +1,17 @@
 # quantumvault-cryptography
 
+<p align="center">
+  <strong>A Product of <a href="https://allsecurex.com">AllSecureX</a></strong><br>
+  Enterprise-Grade Post-Quantum Cryptography
+</p>
+
+<p align="center">
+  <a href="https://github.com/AllSecureX-Quantum/quantumvault-python/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
+  <a href="https://pypi.org/project/quantumvault-cryptography/"><img src="https://img.shields.io/pypi/v/quantumvault-cryptography.svg" alt="PyPI version"></a>
+</p>
+
+---
+
 **Drop-in quantum-safe upgrade for Python applications - zero code changes required.**
 
 This package transparently upgrades your Python application's cryptographic operations to quantum-safe alternatives. Simply install and configure at application startup - all existing crypto code continues to work while being protected against quantum computer attacks.
